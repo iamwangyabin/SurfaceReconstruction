@@ -1,3 +1,0 @@
-/home/wang/workspace/PolyFit-master/3rd_scip/build/CMakeFiles/edit_cache.dir
-/home/wang/workspace/PolyFit-master/3rd_scip/build/CMakeFiles/rebuild_cache.dir
-/home/wang/workspace/PolyFit-master/3rd_scip/build/CMakeFiles/3rd_scip.dir
